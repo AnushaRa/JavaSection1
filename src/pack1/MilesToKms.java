@@ -7,7 +7,7 @@ package pack1;
 
 /**
  *
- * @author sjey
+ * @author Anusha
  */
 public class MilesToKms extends javax.swing.JFrame {
 
